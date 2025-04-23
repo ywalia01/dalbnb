@@ -6,6 +6,11 @@ This project was developed as the group project submission for the course CSCI54
 
 dalbnb is a serverless DALVacationHome application using a multi-cloud deployment model and backend-as-a-service (BaaS). It provides customization features and additional services for authorized users, as well as limited services to guests. The application includes an online virtual assistant to answer user queries and a message passing functionality between authorized users and agents.
 
+
+## Project Architecture
+
+![DalBNB Architecture](https://github.com/user-attachments/assets/f48bc9a0-b33c-44fd-bace-1d3e1acb65f1)
+
 ## Project Features
 
 - **User Management**: 
